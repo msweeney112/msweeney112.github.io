@@ -1,0 +1,12 @@
+## grayrat hacking
+
+### OSCE preparation
+
+Loads of topics covered while preparing for the OSCE. A general public share of all the great resources I've come across.
+
+
+### Sharing is caring
+Possibly one of the most simple, yet most useful things - the humble smbshare.
+```
+sudo python3 /usr/share/doc/python3-impacket/examples/smbserver.py hello ~/labshare/
+```
