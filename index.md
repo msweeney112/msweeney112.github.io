@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ## grayrat hacking
 
 ### OSCE preparation
